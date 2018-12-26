@@ -291,6 +291,22 @@ $ git push -u origin master
 
 
 
+#### 고치기
+
+```
+$ git log
+$ git remote remove origin
+$ git remote add origin 
+$ git config --global user.email "자기이메일"
+$ git config --global user.name "자기닉네임"
+```
+
+
+
+
+
+
+
 ## 블로그 만들기
 
 https://startbootstrap.com/template-categories/all/  >> Resume >> Download
